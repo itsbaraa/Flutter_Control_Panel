@@ -6,7 +6,7 @@ import 'package:flutter_control_panel/models/pose.dart';
 
 // IMPORTANT: Replace with your PC's local IP address where the PHP server is running.
 // Your phone and PC must be on the same Wi-Fi network.
-const String serverIp = "192.168.8.3"; // <-- CHANGE THIS
+const String serverIp = "ip_address"; // <-- CHANGE THIS
 const String baseUrl = "http://$serverIp/servo_api";
 
 class WifiControlScreen extends StatefulWidget {
