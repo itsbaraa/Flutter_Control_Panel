@@ -1,4 +1,3 @@
-// lib/screens/home_screen.dart
 import 'package:flutter/material.dart';
 import 'package:flutter_control_panel/screens/bluetooth_control_screen.dart';
 import 'package:flutter_control_panel/screens/usb_serial_control_screen.dart';

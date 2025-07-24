@@ -1,4 +1,3 @@
-// lib/screens/usb_serial_control_screen.dart
 import 'package:flutter/material.dart';
 
 class UsbSerialControlScreen extends StatelessWidget {
