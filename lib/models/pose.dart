@@ -1,4 +1,3 @@
-// lib/models/pose.dart
 class Pose {
   final int id;
   final int servo1;
